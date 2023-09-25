@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(20, 108, 209);
+}
+
+header {
+    width: 650px;
+    margin: auto;
+    padding-bottom: 50px;
+    border: 5px solid black;
+    background-color: rgb(218, 143, 5);
+}
+
+.menu {
+    width: 600px;
+    margin: auto;
+}
+
+ h1 {
+    color: blue;
+    margin: auto;
+    /* padding-left: 25px; */
+    text-shadow: 3px 3px 3px black;
+}
+
+img {
+    display: block;
+    margin: 30px auto;
+}
